@@ -1,5 +1,6 @@
 # Time-Series-Decomposition
 ### Time Series Decomposition, detrending, De-seasoning using Python
+#### In this section, i have tried to use all techniques for detrending, de-seasoning and decompositing time-series component.
 - Detecting Trends and Detrending  
 - Pandas Differencing 
 - SciPy Signal
